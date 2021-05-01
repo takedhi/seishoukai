@@ -1,0 +1,7 @@
+  /* スマホ向けレイアウト */
+  @media (max-width: 950px) {
+    
+    .menu li a {
+        font-size: 14px;
+      }
+    }
